@@ -86,6 +86,7 @@ export let frameworks = [
     f("ractive-edge-non-keyed", false),
     f("react-lite-v0.15.30-keyed", true),
     f("react-v16.1.0-keyed", true),
+    f("react-v16.1.0-inline-functions-keyed", true),
     f("react-v16.1.0-non-keyed", false),
     f("react-v16.1.0-easy-state-v3.0.1-keyed", true),
     f("react-v16.1.0-mobX-v3.3.1-keyed", true),
